@@ -1,0 +1,5 @@
+-   id: eslint
+    name: eslint
+    entry: eslint
+    language: node
+    files: \.js$
