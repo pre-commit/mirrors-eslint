@@ -4,6 +4,7 @@ eslint mirror
 Mirror of eslint package for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
+
 For eslint: see https://github.com/eslint/eslint
 
 
