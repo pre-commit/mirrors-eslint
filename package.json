@@ -3,6 +3,6 @@
     "description": "Note: double curly-braces because python .format",
     "version": "0.0.0",
     "scripts": {
-        "preinstall": "npm install eslint@0.21.0 -g"
+        "preinstall": "npm install eslint@0.21.1 -g"
     }
 }
