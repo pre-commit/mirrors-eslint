@@ -1,8 +1,5 @@
 {
-    "name": "__dummy_package",
+    "name": "dummy_package",
     "description": "Note: double curly-braces because python .format",
-    "version": "0.0.0",
-    "scripts": {
-        "preinstall": "npm install eslint@1.6.0 -g"
-    }
+    "version": "0.0.0"
 }
