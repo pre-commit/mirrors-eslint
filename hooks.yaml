@@ -6,5 +6,5 @@
     args: []
 
     # Use additional_dependencies to install the actual node package
-    additional_dependencies: ['eslint@2.9.0']
+    additional_dependencies: ['eslint@2.10.0']
     minimum_pre_commit_version: 0.7.0
