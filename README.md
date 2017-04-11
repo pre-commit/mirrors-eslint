@@ -17,7 +17,7 @@ Add this to your `.pre-commit-config.yaml`:
         hooks:
         -   id: eslint
 
-When using plugins with `eslint` you'll need to declare theme under
+When using plugins with `eslint` you'll need to declare them under
 `additional_dependencies`. For example:
 
     -   repo: git://github.com/pre-commit/mirrors-eslint
