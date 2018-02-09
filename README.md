@@ -25,6 +25,7 @@ When using plugins with `eslint` you'll need to declare them under
         hooks:
         -   id: eslint
             additional_dependencies:
+            -   eslint@4.15.0
             -   eslint-config-google@0.7.1
             -   eslint-loader@1.6.1
             -   eslint-plugin-react@6.10.3
