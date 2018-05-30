@@ -2,9 +2,6 @@
     name: eslint
     entry: eslint
     language: node
-    files: \.js$
+    'types': [javascript]
     args: []
-
-    # Use additional_dependencies to install the actual node package
-    additional_dependencies: ['eslint@5.0.0-alpha.3']
-    minimum_pre_commit_version: 0.7.0
+    additional_dependencies: ["eslint@5.0.0-alpha.4"]
