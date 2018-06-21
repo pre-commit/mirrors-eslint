@@ -13,7 +13,7 @@ For eslint: see https://github.com/eslint/eslint
 Add this to your `.pre-commit-config.yaml`:
 
     -   repo: https://github.com/pre-commit/mirrors-eslint
-        sha: ''  # Use the sha you want to point at
+        rev: ''  # Use the sha / tag you want to point at
         hooks:
         -   id: eslint
 
@@ -21,7 +21,7 @@ When using plugins with `eslint` you'll need to declare them under
 `additional_dependencies`. For example:
 
     -   repo: https://github.com/pre-commit/mirrors-eslint
-        sha: ''  # Use the sha you want to point at
+        rev: ''  # Use the sha / tag you want to point at
         hooks:
         -   id: eslint
             additional_dependencies:
