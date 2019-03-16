@@ -4,4 +4,5 @@
     language: node
     'types': [javascript]
     args: []
-    additional_dependencies: ["eslint@5.15.1"]
+    require_serial: false
+    additional_dependencies: ["eslint@5.15.2"]
