@@ -2,7 +2,7 @@
     name: eslint
     entry: eslint
     language: node
-    'types': [javascript]
+    'types': [javascript, typescript]
     args: []
     require_serial: false
     additional_dependencies: ["eslint@7.16.0"]
