@@ -5,4 +5,4 @@
     'types': [javascript]
     args: []
     require_serial: false
-    additional_dependencies: ["eslint@8.0.0-beta.0"]
+    additional_dependencies: ["eslint@8.0.0-beta.1"]
