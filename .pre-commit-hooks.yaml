@@ -6,4 +6,4 @@
     args: []
     require_serial: false
     additional_dependencies: ["eslint@8.0.0"]
-    minimum_pre_commit_version: 0
+    minimum_pre_commit_version: '0'
