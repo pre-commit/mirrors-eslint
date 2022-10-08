@@ -6,5 +6,5 @@
     'types': [javascript]
     args: []
     require_serial: false
-    additional_dependencies: ["eslint@8.24.0"]
+    additional_dependencies: ["eslint@8.25.0"]
     minimum_pre_commit_version: '0'
