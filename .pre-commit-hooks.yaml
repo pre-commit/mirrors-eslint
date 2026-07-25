@@ -1,10 +1,10 @@
 -   id: eslint
-    name: eslint
+    name: 'eslint'
     description: ''
     entry: eslint
     language: node
     'types': [javascript]
     args: []
     require_serial: false
-    additional_dependencies: ["eslint@10.7.0"]
+    additional_dependencies: ["eslint@10.8.0"]
     minimum_pre_commit_version: '0'
